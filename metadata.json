@@ -1,0 +1,6 @@
+{
+  "name": "Football Live Score",
+  "description": "Real-time football scores, match results, stats, lineups, predictions, and coin rewards with bKash withdrawal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
